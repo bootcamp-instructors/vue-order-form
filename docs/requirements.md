@@ -1,4 +1,4 @@
-# Angular Order Form
+# Vue Order Form
 
 Display a list of services with a grand total below.
 
